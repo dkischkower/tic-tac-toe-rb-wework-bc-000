@@ -2,5 +2,9 @@
 
 require_relative '../lib/tic_tac_toe'
 board = Array.new(9,' ')
+<<<<<<< HEAD
 puts "Welcome to Tic Tac Toe!"
+=======
+
+>>>>>>> c72eeec3d5701c585ceb4b7810add1457e9a5f41
 play(board)
